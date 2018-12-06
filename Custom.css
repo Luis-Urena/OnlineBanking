@@ -1,0 +1,31 @@
+.root
+{
+    -fx-background-color: #383838;
+    -fx-font-size:11pt;
+}
+
+.label
+{
+    -fx-text-fill: #e8e8e8;
+}
+
+.button
+{
+    -fx-background-color: #A1b56c;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius:4;
+}
+
+.button-red
+{
+    -fx-background-color: #ff0000;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius:4;
+}
+
+.radiobutton
+{
+    -fx-background-color: #A1b56c;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius:4;
+}
